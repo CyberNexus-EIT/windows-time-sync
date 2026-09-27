@@ -36,6 +36,9 @@ echo.
 w32tm /query /configuration
 
 echo.
+echo [8/8] Verifying synchronization status...
+echo.
+
 echo ==========================================
 echo   CURRENT TIMEZONE
 echo ==========================================
